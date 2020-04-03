@@ -1,0 +1,13 @@
+C:\Users\kris.johnson\source\repos\Calculator\OOPCalculator\bin\Debug\netcoreapp3.1\OOPCalculator.exe
+C:\Users\kris.johnson\source\repos\Calculator\OOPCalculator\bin\Debug\netcoreapp3.1\OOPCalculator.deps.json
+C:\Users\kris.johnson\source\repos\Calculator\OOPCalculator\bin\Debug\netcoreapp3.1\OOPCalculator.runtimeconfig.json
+C:\Users\kris.johnson\source\repos\Calculator\OOPCalculator\bin\Debug\netcoreapp3.1\OOPCalculator.runtimeconfig.dev.json
+C:\Users\kris.johnson\source\repos\Calculator\OOPCalculator\bin\Debug\netcoreapp3.1\OOPCalculator.dll
+C:\Users\kris.johnson\source\repos\Calculator\OOPCalculator\bin\Debug\netcoreapp3.1\OOPCalculator.pdb
+C:\Users\kris.johnson\source\repos\Calculator\OOPCalculator\obj\Debug\netcoreapp3.1\OOPCalculator.csprojAssemblyReference.cache
+C:\Users\kris.johnson\source\repos\Calculator\OOPCalculator\obj\Debug\netcoreapp3.1\OOPCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kris.johnson\source\repos\Calculator\OOPCalculator\obj\Debug\netcoreapp3.1\OOPCalculator.AssemblyInfoInputs.cache
+C:\Users\kris.johnson\source\repos\Calculator\OOPCalculator\obj\Debug\netcoreapp3.1\OOPCalculator.AssemblyInfo.cs
+C:\Users\kris.johnson\source\repos\Calculator\OOPCalculator\obj\Debug\netcoreapp3.1\OOPCalculator.dll
+C:\Users\kris.johnson\source\repos\Calculator\OOPCalculator\obj\Debug\netcoreapp3.1\OOPCalculator.pdb
+C:\Users\kris.johnson\source\repos\Calculator\OOPCalculator\obj\Debug\netcoreapp3.1\OOPCalculator.genruntimeconfig.cache

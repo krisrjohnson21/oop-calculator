@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{9C3EA460-49BA-45B7-9683-0CBA20C39F58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPCalculator", "OOPCalculator\OOPCalculator.csproj", "{B24311E8-5B48-4DA1-BCF6-1A09CF916371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C3EA460-49BA-45B7-9683-0CBA20C39F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3EA460-49BA-45B7-9683-0CBA20C39F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3EA460-49BA-45B7-9683-0CBA20C39F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3EA460-49BA-45B7-9683-0CBA20C39F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24311E8-5B48-4DA1-BCF6-1A09CF916371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24311E8-5B48-4DA1-BCF6-1A09CF916371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24311E8-5B48-4DA1-BCF6-1A09CF916371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24311E8-5B48-4DA1-BCF6-1A09CF916371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51AF5B2B-B00A-4268-88B4-4D4534714326}
+	EndGlobalSection
+EndGlobal
